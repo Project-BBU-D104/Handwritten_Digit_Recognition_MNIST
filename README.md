@@ -1,6 +1,9 @@
-# Convolutional Neural Network Example
+# Handwritten Digit Recognition with MNIST
+
 
 Build a convolutional neural network with TensorFlow v2 to classify handwritten digits from the MNIST dataset.
+
+Based on the official TensorFlow examples: https://github.com/aymericdamien/tensorflow-examples
 
 ## Requirements
 
