@@ -31,10 +31,12 @@ jupyter notebook convolutional_network.ipynb
 
 ## GPU Support (Linux / WSL2)
 
-For GPU acceleration, install TensorFlow with CUDA support:
+For GPU acceleration, install TensorFlow v2 with CUDA support:
 
 ```bash
 pip install tensorflow[and-cuda]
 ```
 
 This pulls the required CUDA libraries automatically. No manual CUDA / cuDNN installation is needed.
+
+For more details about TensorFlow installation, you can check [TensorFlow Installation Guide](https://www.tensorflow.org/install/)
